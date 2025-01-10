@@ -1,0 +1,29 @@
+.App {
+    padding: 3%;
+
+}
+
+.App-header {
+    background-color: darkslategrey;
+    text-align: center;
+    color: azure;
+
+}
+
+.Book-wraper {
+    background-color: darkgray;
+}
+
+.Book-decription {
+    display: flex;
+    justify-content: space-around;
+}
+
+.Book-info {
+    list-style: none;
+}
+
+.Reviews {
+    text-align: center;
+    padding: 2%;
+}

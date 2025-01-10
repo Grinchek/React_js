@@ -1,0 +1,26 @@
+.Wraper {
+    background-color: burlywood;
+    text-align: center;
+}
+
+.Header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.Header button {
+    height: 2em;
+    margin: 1.25em;
+    border: none;
+    background-color: grey;
+}
+
+.Image {
+    width: fit-content;
+    margin: auto;
+}
+
+.TextBlock {
+    width: 65%;
+    margin: auto;
+}

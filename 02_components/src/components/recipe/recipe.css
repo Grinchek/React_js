@@ -1,0 +1,20 @@
+.Ingrideients {
+    width: 60%;
+    margin: auto;
+}
+
+
+.Ingrideients li {
+    display: flex;
+    justify-content: space-between;
+}
+
+.RecipeText {
+    width: 60%;
+    margin: auto;
+    font-size: 1.25em;
+}
+
+.RecipeText ul {
+    list-style-type: decimal;
+}
