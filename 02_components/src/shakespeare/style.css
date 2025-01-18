@@ -1,4 +1,6 @@
 .Wraper {
+    width: 85%;
+    margin: auto;
     background-color: burlywood;
     text-align: center;
 }

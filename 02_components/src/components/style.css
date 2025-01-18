@@ -10,20 +10,22 @@
 
 }
 
-.Book-wraper {
+.C-wraper {
     background-color: darkgray;
 }
 
-.Book-decription {
+.C-decription {
     display: flex;
     justify-content: space-around;
 }
 
-.Book-info {
+.C-info {
     list-style: none;
 }
 
 .Reviews {
+    width: 65%;
+    margin: auto;
     text-align: center;
     padding: 2%;
 }

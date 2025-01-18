@@ -7,10 +7,10 @@ const FavBand = () => {
             <header className="App-header">
                 <h1>My favorite band</h1>
             </header>
-            <div className="Book-wraper">
-                <div className="Book-decription">
+            <div className="C-wraper">
+                <div className="C-decription">
                     <img src={logo} alt="" width={300} height={250} />
-                    <ul className="Book-info" >
+                    <ul className="C-info" >
                         <li>Foo Fighters</li>
                         <li>Жанр : Альтернативний рок</li>
                         <li>Роки : з 1995 і дотепер</li>
