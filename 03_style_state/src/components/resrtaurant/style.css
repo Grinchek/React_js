@@ -1,0 +1,47 @@
+.App {
+    padding: 3%;
+
+}
+
+.App-header {
+    background-color: darkslategrey;
+    text-align: center;
+    color: azure;
+
+}
+
+.C-wraper {
+    background-color: darkgray;
+}
+
+.C-decription {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.CommentField {
+    width: 65%;
+    margin: auto;
+    text-align: center;
+    padding: 2%;
+}
+
+.Button {
+    display: block;
+    margin: auto;
+    width: 80px;
+    background-color: blue;
+}
+
+#CommentList {
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+}
+
+.Comment {
+    background-color: #fff;
+    border: 1px solid black;
+    padding: 8px;
+}
